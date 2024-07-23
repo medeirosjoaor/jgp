@@ -25,7 +25,7 @@ series = json.loads(p.text)["Results"]["series"]
 
 dict = defaultdict(list)
 
-file = csv.writer(open("out/data.csv", "w", newline=""))
+file = csv.writer(open("src/data.csv", "w", newline=""))
 
 file.writerow(
     ["Date", "All items", "All items, less food and energy", "Gasoline (all types)"]
