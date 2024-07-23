@@ -1,3 +1,3 @@
 <h1>Disclaimer</h1>
 
-<p>This is a work in progress. Only the mandatory part was completed. The bonus part is still in progress.</p>
+<p>Done. You can find the thought process in the thoughts.pdf file.</p>
